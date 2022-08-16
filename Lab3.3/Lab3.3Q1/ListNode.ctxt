@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=ListNode
-comment0.text=\r\n\ Class\ ListNode\ -\ Queue\r\n\r\n\ @YUEN\ Yiu\ Yeung\ \r\n\ @2021-03-18\r\n
-comment1.params=data
-comment1.target=ListNode(java.lang.Object)
-comment2.params=data\ next
-comment2.target=ListNode(java.lang.Object,\ ListNode)
-numComments=3

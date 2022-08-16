@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DoublyNode
+comment0.text=\r\n\ Class\ DoublyNode\ -\ Linked\ Lists\r\n\r\n\ @YUEN\ Yiu\ Yeung\ \r\n\ @2021-03-07\r\n
+comment1.params=data
+comment1.target=DoublyNode(java.lang.Object)
+comment2.params=data\ previous\ next
+comment2.target=DoublyNode(java.lang.Object,\ DoublyNode,\ DoublyNode)
+numComments=3

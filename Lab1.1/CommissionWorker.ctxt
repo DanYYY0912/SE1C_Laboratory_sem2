@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CommissionWorker
+comment0.text=\r\n\ Class\ CommissionWorker\ -\ Object-oriented\ Programming\ (Polymorphism)\r\n\r\n\ @YUEN\ Yiu\ Yeung\ \r\n\ @2021-01-30\r\n
+comment1.params=name\ c\ q
+comment1.target=CommissionWorker(java.lang.String,\ double,\ int)
+comment2.params=c
+comment2.target=void\ setCommission(double)
+comment3.params=q
+comment3.target=void\ setQuantity(int)
+comment4.params=
+comment4.target=double\ earnings()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=\r\n\ Class\ Point\ -\ Object-oriented\ Programming(abstract\ class\ and\ methods)\r\n\r\n\ @YUEN\ Yiu\ Yeung\ \r\n\ @2021-01-31\r\n
+comment1.params=a\ b
+comment1.target=Point(double,\ double)
+comment2.params=a\ b
+comment2.target=void\ setPoint(double,\ double)
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=
+comment4.target=double\ getY()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

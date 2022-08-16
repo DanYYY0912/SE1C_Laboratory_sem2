@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Worker
+comment0.text=\r\n\ Class\ Worker\ -\ Object-oriented\ Programming\ (Polymorphism)\r\n\r\n\ @YUEN\ Yiu\ Yeung\ \r\n\ @2021-01-30\r\n
+comment1.params=name
+comment1.target=Worker(java.lang.String)
+comment2.params=
+comment2.target=double\ earnings()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

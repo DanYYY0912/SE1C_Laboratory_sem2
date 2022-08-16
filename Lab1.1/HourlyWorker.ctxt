@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=HourlyWorker
+comment0.text=\r\n\ Class\ HourlyWorker\ -\ Object-oriented\ Programming\ (Polymorphism)\r\n\r\n\ @YUEN\ Yiu\ Yeung\ \r\n\ @2021-01-30\r\n
+comment1.params=name\ w\ h
+comment1.target=HourlyWorker(java.lang.String,\ double,\ double)
+comment2.params=w
+comment2.target=void\ setWage(double)
+comment3.params=h
+comment3.target=void\ setHours(double)
+comment4.params=
+comment4.target=double\ earnings()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

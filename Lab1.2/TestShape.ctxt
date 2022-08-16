@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TestShape
+comment0.text=\r\n\ Class\ TestShape\ -\ Object-oriented\ Programming(abstract\ class\ and\ methods)\r\n\r\n\ I\ understand\ the\ meaning\ of\ academic\ dishonesty,\ in\ particular\ plagiarism,\ copyright\ infringement\r\n\ and\ collusion.\ I\ am\ aware\ of\ the\ consequences\ if\ found\ to\ be\ involved\ in\ these\ misconducts.\ I\ hereby\r\n\ declare\ that\ the\ work\ submitted\ for\ the\ \u201CITP4510\ Data\ Structures\ &\ Algorithms\u201D\ is\ authentic\ record\r\n\ of\ my\ own\ work.\r\n\r\n\ @YUEN\ Yiu\ Yeung\ \r\n\ @2021-01-31\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ printHeader()
+comment3.params=
+comment3.target=void\ printFooter()
+numComments=4

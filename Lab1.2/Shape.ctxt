@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\r\n\ Class\ Shape\ -\ Object-oriented\ Programming(abstract\ class\ and\ methods)\r\n\r\n\ @YUEN\ Yiu\ Yeung\ \r\n\ @2021-01-31\r\n
+comment1.params=n
+comment1.target=Shape(java.lang.String)
+comment2.params=
+comment2.target=double\ getArea()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

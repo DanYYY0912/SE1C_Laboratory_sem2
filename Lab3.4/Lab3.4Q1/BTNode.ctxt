@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BTNode
+comment0.text=\r\n\ Interface\ BTNode\ \r\n\ \r\n\ @Norman\ CHAN\r\n\ @2019-03-11\r\n
+comment1.params=
+comment1.target=java.lang.String\ getDataStr()
+comment2.params=
+comment2.target=BTNode\ getLeft()
+comment3.params=
+comment3.target=BTNode\ getRight()
+numComments=4
